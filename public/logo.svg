@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="QMS">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#31748f"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="164" height="164" rx="40" fill="url(#bg)"/>
+  <rect x="56" y="68" width="88" height="68" rx="6" fill="none" stroke="#ffffff" stroke-width="8"/>
+  <line x1="56" y1="102" x2="144" y2="102" stroke="#ffffff" stroke-width="8"/>
+  <line x1="100" y1="68" x2="100" y2="136" stroke="#ffffff" stroke-width="8"/>
+  <path d="M80 68 L80 56 L120 56 L120 68" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
